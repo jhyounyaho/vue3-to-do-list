@@ -4,7 +4,7 @@
         <div class="flex-grow-1 mr-2">
           <input 
             class="form-control mr-2"
-            type="type" 
+            type="text" 
             v-model="todo"
             placeholder="Type new to-do"
           />
